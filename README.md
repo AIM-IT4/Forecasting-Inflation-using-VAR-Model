@@ -1,1 +1,3 @@
 # Forecasting-Inflation-using-VAR-Model
+
+Hey folks, today I’m going to demonstrate to you how I used a Python time series econometric model to forecast rising prices. You may make smarter financial decisions by using macro forecasting to help you see the broad picture. Banks, investment banks, and even central banks frequently utilize the Vector Autoregressive (VAR)Model, one of the most popular and fundamental macroeconomic time series models, to make macro projections. (Central banks may use more complex macro models, but they might not be any more effective than straightforward time series models.
